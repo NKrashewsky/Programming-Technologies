@@ -1,0 +1,171 @@
+2026-11-23 11:29:22 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:29:22 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:29:22 [INFO ] Main - n = 5
+2026-11-23 11:29:22 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:29:22 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:29:22 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:29:22 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:29:22 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:30:36 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:30:36 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:30:36 [INFO ] Main - n = 5
+2026-11-23 11:30:36 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:30:36 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:30:36 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:30:36 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:30:36 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-1737302524891381111\o.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:31:03 [INFO ] Main - n = 2
+2026-11-23 11:31:03 [INFO ] Main - Numbers: [9223372036854775807 + 9223372036854775807i, 9223372036854775807 + 9223372036854775807i]
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-973397514769375392\c.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:31:03 [INFO ] Main - n = 2
+2026-11-23 11:31:03 [INFO ] Main - Numbers: [1 + 2i, 1/2 + 1/3i]
+2026-11-23 11:31:03 [INFO ] Main - Sum: 3/2 + 7/3i
+2026-11-23 11:31:03 [INFO ] Main - Product: -1/6 + 4/3i
+2026-11-23 11:31:03 [INFO ] Main - Max modulus: 1 + 2i
+2026-11-23 11:31:03 [INFO ] Main - Sorted by modulus: [1/2 + 1/3i, 1 + 2i]
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-11934646758161002682\e.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:31:03 [INFO ] Main - n = 0
+2026-11-23 11:31:03 [INFO ] Main - Numbers: []
+2026-11-23 11:31:03 [INFO ] Main - Sum: 0 + 0i
+2026-11-23 11:31:03 [INFO ] Main - Product: 1 + 0i
+2026-11-23 11:31:03 [INFO ] Main - Sorted by modulus: []
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:31:03 [INFO ] Main - n = 5
+2026-11-23 11:31:03 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:31:03 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:31:03 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:31:03 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:31:03 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 8 lines from C:\Users\nikit\AppData\Local\Temp\junit-3539482990703898534\complex.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 3 complex numbers
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-12499505557537520116\empty.txt
+2026-11-23 11:31:03 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-5792746176134760643\o.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:31:55 [INFO ] Main - n = 2
+2026-11-23 11:31:55 [INFO ] Main - Numbers: [9223372036854775807 + 9223372036854775807i, 9223372036854775807 + 9223372036854775807i]
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-16811616084558308474\c.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:31:55 [INFO ] Main - n = 2
+2026-11-23 11:31:55 [INFO ] Main - Numbers: [1 + 2i, 1/2 + 1/3i]
+2026-11-23 11:31:55 [INFO ] Main - Sum: 3/2 + 7/3i
+2026-11-23 11:31:55 [INFO ] Main - Product: -1/6 + 4/3i
+2026-11-23 11:31:55 [INFO ] Main - Max modulus: 1 + 2i
+2026-11-23 11:31:55 [INFO ] Main - Sorted by modulus: [1/2 + 1/3i, 1 + 2i]
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-5176216735002158696\e.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:31:55 [INFO ] Main - n = 0
+2026-11-23 11:31:55 [INFO ] Main - Numbers: []
+2026-11-23 11:31:55 [INFO ] Main - Sum: 0 + 0i
+2026-11-23 11:31:55 [INFO ] Main - Product: 1 + 0i
+2026-11-23 11:31:55 [INFO ] Main - Sorted by modulus: []
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:31:55 [INFO ] Main - n = 5
+2026-11-23 11:31:55 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:31:55 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:31:55 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:31:55 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:31:55 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 8 lines from C:\Users\nikit\AppData\Local\Temp\junit-16292452785587256306\complex.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 3 complex numbers
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-3352691987769295522\empty.txt
+2026-11-23 11:31:55 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-3631117555947423180\o.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:34:34 [INFO ] Main - n = 2
+2026-11-23 11:34:34 [INFO ] Main - Numbers: [9223372036854775807 + 9223372036854775807i, 9223372036854775807 + 9223372036854775807i]
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-6619842039143896667\c.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:34:34 [INFO ] Main - n = 2
+2026-11-23 11:34:34 [INFO ] Main - Numbers: [1 + 2i, 1/2 + 1/3i]
+2026-11-23 11:34:34 [INFO ] Main - Sum: 3/2 + 7/3i
+2026-11-23 11:34:34 [INFO ] Main - Product: -1/6 + 4/3i
+2026-11-23 11:34:34 [INFO ] Main - Max modulus: 1 + 2i
+2026-11-23 11:34:34 [INFO ] Main - Sorted by modulus: [1/2 + 1/3i, 1 + 2i]
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-1293476772586865727\e.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:34:34 [INFO ] Main - n = 0
+2026-11-23 11:34:34 [INFO ] Main - Numbers: []
+2026-11-23 11:34:34 [INFO ] Main - Sum: 0 + 0i
+2026-11-23 11:34:34 [INFO ] Main - Product: 1 + 0i
+2026-11-23 11:34:34 [INFO ] Main - Sorted by modulus: []
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:34:34 [INFO ] Main - n = 5
+2026-11-23 11:34:34 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:34:34 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:34:34 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:34:34 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:34:34 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 8 lines from C:\Users\nikit\AppData\Local\Temp\junit-12108728460002877277\complex.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 3 complex numbers
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-11376783231008446608\empty.txt
+2026-11-23 11:34:34 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-7425917212857618720\o.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:48:20 [INFO ] Main - n = 2
+2026-11-23 11:48:20 [INFO ] Main - Numbers: [9223372036854775807 + 9223372036854775807i, 9223372036854775807 + 9223372036854775807i]
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-5882319713390678524\c.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 11:48:20 [INFO ] Main - n = 2
+2026-11-23 11:48:20 [INFO ] Main - Numbers: [1 + 2i, 1/2 + 1/3i]
+2026-11-23 11:48:20 [INFO ] Main - Sum: 3/2 + 7/3i
+2026-11-23 11:48:20 [INFO ] Main - Product: -1/6 + 4/3i
+2026-11-23 11:48:20 [INFO ] Main - Max modulus: 1 + 2i
+2026-11-23 11:48:20 [INFO ] Main - Sorted by modulus: [1/2 + 1/3i, 1 + 2i]
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-15424570725536414656\e.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 11:48:20 [INFO ] Main - n = 0
+2026-11-23 11:48:20 [INFO ] Main - Numbers: []
+2026-11-23 11:48:20 [INFO ] Main - Sum: 0 + 0i
+2026-11-23 11:48:20 [INFO ] Main - Product: 1 + 0i
+2026-11-23 11:48:20 [INFO ] Main - Sorted by modulus: []
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 11:48:20 [INFO ] Main - n = 5
+2026-11-23 11:48:20 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 11:48:20 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 11:48:20 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 11:48:20 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 11:48:20 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 8 lines from C:\Users\nikit\AppData\Local\Temp\junit-5983343031982656749\complex.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 3 complex numbers
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-9414554159020192859\empty.txt
+2026-11-23 11:48:20 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-15715706682325169203\o.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 12:59:59 [INFO ] Main - n = 2
+2026-11-23 12:59:59 [INFO ] Main - Numbers: [9223372036854775807 + 9223372036854775807i, 9223372036854775807 + 9223372036854775807i]
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 2 lines from C:\Users\nikit\AppData\Local\Temp\junit-8491595239060403528\c.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 2 complex numbers
+2026-11-23 12:59:59 [INFO ] Main - n = 2
+2026-11-23 12:59:59 [INFO ] Main - Numbers: [1 + 2i, 1/2 + 1/3i]
+2026-11-23 12:59:59 [INFO ] Main - Sum: 3/2 + 7/3i
+2026-11-23 12:59:59 [INFO ] Main - Product: -1/6 + 4/3i
+2026-11-23 12:59:59 [INFO ] Main - Max modulus: 1 + 2i
+2026-11-23 12:59:59 [INFO ] Main - Sorted by modulus: [1/2 + 1/3i, 1 + 2i]
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-11603662116707846642\e.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 0 complex numbers
+2026-11-23 12:59:59 [INFO ] Main - n = 0
+2026-11-23 12:59:59 [INFO ] Main - Numbers: []
+2026-11-23 12:59:59 [INFO ] Main - Sum: 0 + 0i
+2026-11-23 12:59:59 [INFO ] Main - Product: 1 + 0i
+2026-11-23 12:59:59 [INFO ] Main - Sorted by modulus: []
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 14 lines from data\complex.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 5 complex numbers
+2026-11-23 12:59:59 [INFO ] Main - n = 5
+2026-11-23 12:59:59 [INFO ] Main - Numbers: [1/2 + 3/4i, -2/3 + 1/6i, 5 - 2i, 0 + 1i, 1 + 2/3i]
+2026-11-23 12:59:59 [INFO ] Main - Sum: 35/6 + 7/12i
+2026-11-23 12:59:59 [INFO ] Main - Product: 13/4 - 169/72i
+2026-11-23 12:59:59 [INFO ] Main - Max modulus: 5 - 2i
+2026-11-23 12:59:59 [INFO ] Main - Sorted by modulus: [-2/3 + 1/6i, 1/2 + 3/4i, 0 + 1i, 1 + 2/3i, 5 - 2i]
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 8 lines from C:\Users\nikit\AppData\Local\Temp\junit-1926099897152320565\complex.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 3 complex numbers
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-3958220072874227717\empty.txt
+2026-11-23 12:59:59 [INFO ] ComplexFileReader - Created 0 complex numbers

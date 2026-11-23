@@ -1,0 +1,14 @@
+# type;params
+# FRACTION;realNumerator;realDenominator;imagNumerator;imagDenominator
+# INTEGER;real;imag
+FRACTION;1;2;3;4
+FRACTION;-2;3;1;6
+INTEGER;5;-2
+INTEGER;0;1
+# ---- заведомо некорректные данные ----
+FRACTION;1;0;2;3
+FRACTION;a;2;1;1
+FRACTION;1;2;3
+INTEGER;7
+INTEGER;1;x
+POLAR;1;2
