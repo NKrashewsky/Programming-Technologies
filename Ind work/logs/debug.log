@@ -1,0 +1,11 @@
+2026-10-26 13:44:01 [DEBUG] ProductFileReader - Created Product{id=1, name='Bread', price=2.0, category=FOOD}
+2026-10-26 13:47:13 [DEBUG] DiscountedProductCreator - Discount is not a number: abc
+2026-10-26 13:47:13 [DEBUG] ProductFileReader - Created Product{id=1, name='Bread', price=2.5, category=FOOD}
+2026-10-26 13:47:13 [DEBUG] ProductFileReader - Created DiscountedProduct{id=2, name='Phone', price=100.0, category=ELECTRONICS}{discountPercent=10.0}
+2026-10-26 13:47:13 [DEBUG] ProductFileReader - Created Product{id=5, name='Toy', price=7.0, category=OTHER}
+2026-10-26 13:47:13 [DEBUG] ProductFileReader - Created Product{id=1, name='Bread', price=2.0, category=FOOD}
+2026-10-26 13:53:55 [DEBUG] DiscountedProductCreator - Discount is not a number: abc
+2026-10-26 13:53:55 [DEBUG] ProductFileReader - Created Product{id=1, name='Bread', price=2.5, category=FOOD}
+2026-10-26 13:53:55 [DEBUG] ProductFileReader - Created DiscountedProduct{id=2, name='Phone', price=100.0, category=ELECTRONICS}{discountPercent=10.0}
+2026-10-26 13:53:55 [DEBUG] ProductFileReader - Created Product{id=5, name='Toy', price=7.0, category=OTHER}
+2026-10-26 13:53:55 [DEBUG] ProductFileReader - Created Product{id=1, name='Bread', price=2.0, category=FOOD}

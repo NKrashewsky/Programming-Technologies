@@ -1,0 +1,101 @@
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 14 lines from C:\Users\nikit\AppData\Local\Temp\junit-14762032632253067160\book.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Loaded Gradebook{number='123', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-2504000931579116364\exams.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-2504000931579116364\empty.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-2504000931579116364\invalid.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 3 lines from C:\Users\nikit\AppData\Local\Temp\junit-524133724605605809\g.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Loaded Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:44:25 [INFO ] Main - Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:44:25 [INFO ] Main - Semester 1: average 5.0, exams by grade [Exam{subject='Math', grade=5}], by subject [Exam{subject='Math', grade=5}, Credit{subject='PE', passed=true}]
+2026-11-23 11:44:25 [INFO ] Main - Average grade: 5.0
+2026-11-23 11:44:25 [INFO ] Main - Debts: []
+2026-11-23 11:44:25 [INFO ] Main - Excellent student: true
+2026-11-23 11:44:25 [INFO ] Main - Highest exam: Exam{subject='Math', grade=5}
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-15467452459941150347\e.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Reading 21 lines from data\gradebook.txt
+2026-11-23 11:44:25 [INFO ] GradebookFileReader - Loaded Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:25 [INFO ] Main - Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:25 [INFO ] Main - Semester 1: average 4.5, exams by grade [Exam{subject='Physics', grade=4}, Exam{subject='Mathematics', grade=5}], by subject [Exam{subject='Mathematics', grade=5}, Credit{subject='PE', passed=false}, Credit{subject='Philosophy', passed=true}, Exam{subject='Physics', grade=4}]
+2026-11-23 11:44:25 [INFO ] Main - Semester 2: average 4.0, exams by grade [Exam{subject='Databases', grade=3}, Exam{subject='Programming', grade=5}], by subject [Exam{subject='Databases', grade=3}, Credit{subject='English', passed=true}, Credit{subject='Ethics', passed=false}, Exam{subject='Programming', grade=5}]
+2026-11-23 11:44:25 [INFO ] Main - Average grade: 4.25
+2026-11-23 11:44:25 [INFO ] Main - Debts: [Credit{subject='PE', passed=false}, Credit{subject='Ethics', passed=false}]
+2026-11-23 11:44:25 [INFO ] Main - Excellent student: false
+2026-11-23 11:44:25 [INFO ] Main - Highest exam: Exam{subject='Mathematics', grade=5}
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 14 lines from C:\Users\nikit\AppData\Local\Temp\junit-1703985911027081890\book.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Loaded Gradebook{number='123', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-3357838999659148882\exams.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-3357838999659148882\empty.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-3357838999659148882\invalid.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 3 lines from C:\Users\nikit\AppData\Local\Temp\junit-3455012029029094559\g.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Loaded Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:44:54 [INFO ] Main - Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:44:54 [INFO ] Main - Semester 1: average 5.0, exams by grade [Exam{subject='Math', grade=5}], by subject [Exam{subject='Math', grade=5}, Credit{subject='PE', passed=true}]
+2026-11-23 11:44:54 [INFO ] Main - Average grade: 5.0
+2026-11-23 11:44:54 [INFO ] Main - Debts: []
+2026-11-23 11:44:54 [INFO ] Main - Excellent student: true
+2026-11-23 11:44:54 [INFO ] Main - Highest exam: Exam{subject='Math', grade=5}
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-4252319712444061726\e.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Reading 21 lines from data\gradebook.txt
+2026-11-23 11:44:54 [INFO ] GradebookFileReader - Loaded Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:54 [INFO ] Main - Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:44:54 [INFO ] Main - Semester 1: average 4.5, exams by grade [Exam{subject='Physics', grade=4}, Exam{subject='Mathematics', grade=5}], by subject [Exam{subject='Mathematics', grade=5}, Credit{subject='PE', passed=false}, Credit{subject='Philosophy', passed=true}, Exam{subject='Physics', grade=4}]
+2026-11-23 11:44:54 [INFO ] Main - Semester 2: average 4.0, exams by grade [Exam{subject='Databases', grade=3}, Exam{subject='Programming', grade=5}], by subject [Exam{subject='Databases', grade=3}, Credit{subject='English', passed=true}, Credit{subject='Ethics', passed=false}, Exam{subject='Programming', grade=5}]
+2026-11-23 11:44:54 [INFO ] Main - Average grade: 4.25
+2026-11-23 11:44:54 [INFO ] Main - Debts: [Credit{subject='PE', passed=false}, Credit{subject='Ethics', passed=false}]
+2026-11-23 11:44:54 [INFO ] Main - Excellent student: false
+2026-11-23 11:44:54 [INFO ] Main - Highest exam: Exam{subject='Mathematics', grade=5}
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 14 lines from C:\Users\nikit\AppData\Local\Temp\junit-7277350407656197281\book.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Loaded Gradebook{number='123', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-11834591501741326592\exams.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-11834591501741326592\empty.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-11834591501741326592\invalid.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 3 lines from C:\Users\nikit\AppData\Local\Temp\junit-181525495091648670\g.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Loaded Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:45:00 [INFO ] Main - Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 11:45:00 [INFO ] Main - Semester 1: average 5.0, exams by grade [Exam{subject='Math', grade=5}], by subject [Exam{subject='Math', grade=5}, Credit{subject='PE', passed=true}]
+2026-11-23 11:45:00 [INFO ] Main - Average grade: 5.0
+2026-11-23 11:45:00 [INFO ] Main - Debts: []
+2026-11-23 11:45:00 [INFO ] Main - Excellent student: true
+2026-11-23 11:45:00 [INFO ] Main - Highest exam: Exam{subject='Math', grade=5}
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-16734050232741235871\e.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Reading 21 lines from data\gradebook.txt
+2026-11-23 11:45:00 [INFO ] GradebookFileReader - Loaded Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:45:00 [INFO ] Main - Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:45:00 [INFO ] Main - Semester 1: average 4.5, exams by grade [Exam{subject='Physics', grade=4}, Exam{subject='Mathematics', grade=5}], by subject [Exam{subject='Mathematics', grade=5}, Credit{subject='PE', passed=false}, Credit{subject='Philosophy', passed=true}, Exam{subject='Physics', grade=4}]
+2026-11-23 11:45:00 [INFO ] Main - Semester 2: average 4.0, exams by grade [Exam{subject='Databases', grade=3}, Exam{subject='Programming', grade=5}], by subject [Exam{subject='Databases', grade=3}, Credit{subject='English', passed=true}, Credit{subject='Ethics', passed=false}, Exam{subject='Programming', grade=5}]
+2026-11-23 11:45:00 [INFO ] Main - Average grade: 4.25
+2026-11-23 11:45:00 [INFO ] Main - Debts: [Credit{subject='PE', passed=false}, Credit{subject='Ethics', passed=false}]
+2026-11-23 11:45:00 [INFO ] Main - Excellent student: false
+2026-11-23 11:45:00 [INFO ] Main - Highest exam: Exam{subject='Mathematics', grade=5}
+2026-11-23 11:45:06 [INFO ] GradebookFileReader - Reading 21 lines from data\gradebook.txt
+2026-11-23 11:45:06 [INFO ] GradebookFileReader - Loaded Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:45:06 [INFO ] Main - Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 11:45:06 [INFO ] Main - Semester 1: average 4.5, exams by grade [Exam{subject='Physics', grade=4}, Exam{subject='Mathematics', grade=5}], by subject [Exam{subject='Mathematics', grade=5}, Credit{subject='PE', passed=false}, Credit{subject='Philosophy', passed=true}, Exam{subject='Physics', grade=4}]
+2026-11-23 11:45:06 [INFO ] Main - Semester 2: average 4.0, exams by grade [Exam{subject='Databases', grade=3}, Exam{subject='Programming', grade=5}], by subject [Exam{subject='Databases', grade=3}, Credit{subject='English', passed=true}, Credit{subject='Ethics', passed=false}, Exam{subject='Programming', grade=5}]
+2026-11-23 11:45:06 [INFO ] Main - Average grade: 4.25
+2026-11-23 11:45:06 [INFO ] Main - Debts: [Credit{subject='PE', passed=false}, Credit{subject='Ethics', passed=false}]
+2026-11-23 11:45:06 [INFO ] Main - Excellent student: false
+2026-11-23 11:45:06 [INFO ] Main - Highest exam: Exam{subject='Mathematics', grade=5}
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 14 lines from C:\Users\nikit\AppData\Local\Temp\junit-13625671074714722866\book.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Loaded Gradebook{number='123', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-8869026233042191254\exams.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-8869026233042191254\empty.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-8869026233042191254\invalid.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 3 lines from C:\Users\nikit\AppData\Local\Temp\junit-4481161536563837785\g.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Loaded Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 13:23:16 [INFO ] Main - Gradebook{number='1', student='Ivan', group='G', sessions=1}
+2026-11-23 13:23:16 [INFO ] Main - Semester 1: average 5.0, exams by grade [Exam{subject='Math', grade=5}], by subject [Exam{subject='Math', grade=5}, Credit{subject='PE', passed=true}]
+2026-11-23 13:23:16 [INFO ] Main - Average grade: 5.0
+2026-11-23 13:23:16 [INFO ] Main - Debts: []
+2026-11-23 13:23:16 [INFO ] Main - Excellent student: true
+2026-11-23 13:23:16 [INFO ] Main - Highest exam: Exam{subject='Math', grade=5}
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-7490540742311157570\e.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Reading 21 lines from data\gradebook.txt
+2026-11-23 13:23:16 [INFO ] GradebookFileReader - Loaded Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 13:23:16 [INFO ] Main - Gradebook{number='123456', student='Ivan Petrov', group='CS-101', sessions=2}
+2026-11-23 13:23:16 [INFO ] Main - Semester 1: average 4.5, exams by grade [Exam{subject='Physics', grade=4}, Exam{subject='Mathematics', grade=5}], by subject [Exam{subject='Mathematics', grade=5}, Credit{subject='PE', passed=false}, Credit{subject='Philosophy', passed=true}, Exam{subject='Physics', grade=4}]
+2026-11-23 13:23:16 [INFO ] Main - Semester 2: average 4.0, exams by grade [Exam{subject='Databases', grade=3}, Exam{subject='Programming', grade=5}], by subject [Exam{subject='Databases', grade=3}, Credit{subject='English', passed=true}, Credit{subject='Ethics', passed=false}, Exam{subject='Programming', grade=5}]
+2026-11-23 13:23:16 [INFO ] Main - Average grade: 4.25
+2026-11-23 13:23:16 [INFO ] Main - Debts: [Credit{subject='PE', passed=false}, Credit{subject='Ethics', passed=false}]
+2026-11-23 13:23:16 [INFO ] Main - Excellent student: false
+2026-11-23 13:23:16 [INFO ] Main - Highest exam: Exam{subject='Mathematics', grade=5}

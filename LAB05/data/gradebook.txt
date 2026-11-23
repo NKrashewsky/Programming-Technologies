@@ -1,0 +1,21 @@
+# BOOK;number;studentName;group
+# EXAM;semester;subject;grade (2-5)
+# CREDIT;semester;subject;PASSED|FAILED
+BOOK;123456;Ivan Petrov;CS-101
+EXAM;1;Mathematics;5
+EXAM;1;Physics;4
+CREDIT;1;Philosophy;PASSED
+CREDIT;1;PE;FAILED
+EXAM;2;Programming;5
+EXAM;2;Databases;3
+CREDIT;2;English;PASSED
+# заведомо некорректные данные
+EXAM;1;Chemistry;7
+EXAM;0;History;4
+EXAM;x;History;4
+EXAM;2;;4
+EXAM;2;Algebra;abc
+CREDIT;2;Ethics;MAYBE
+EXAM;2;Short
+LAB;2;Chemistry;5
+BOOK;999;Someone Else;X-000

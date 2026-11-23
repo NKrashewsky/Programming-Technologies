@@ -1,0 +1,47 @@
+2026-10-26 13:44:01 [INFO ] ProductFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-1393789809000961775\p.txt
+2026-10-26 13:44:01 [INFO ] ProductFileReader - Created 1 products
+2026-10-26 13:44:01 [INFO ] Main - Total cost: 2.0
+2026-10-26 13:44:01 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:44:01 [INFO ] Main - Average price: 2.0
+2026-10-26 13:44:01 [INFO ] Main - Most expensive: Product{id=1, name='Bread', price=2.0, category=FOOD}
+2026-10-26 13:44:01 [INFO ] Main - Cheaper than 100.0: [Product{id=1, name='Bread', price=2.0, category=FOOD}]
+2026-10-26 13:44:01 [INFO ] ProductFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-18142065768564961851\e.txt
+2026-10-26 13:44:01 [INFO ] ProductFileReader - Created 0 products
+2026-10-26 13:44:01 [INFO ] Main - Total cost: 0.0
+2026-10-26 13:44:01 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:44:01 [INFO ] Main - Average price: 0.0
+2026-10-26 13:44:01 [INFO ] Main - Cheaper than 100.0: []
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Reading 7 lines from C:\Users\nikit\AppData\Local\Temp\junit-6753538486941454125\products.txt
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Created 3 products
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-2227105712065789820\empty.txt
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Created 0 products
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-16505674703960770638\p.txt
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Created 1 products
+2026-10-26 13:47:13 [INFO ] Main - Total cost: 2.0
+2026-10-26 13:47:13 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:47:13 [INFO ] Main - Average price: 2.0
+2026-10-26 13:47:13 [INFO ] Main - Most expensive: Product{id=1, name='Bread', price=2.0, category=FOOD}
+2026-10-26 13:47:13 [INFO ] Main - Cheaper than 100.0: [Product{id=1, name='Bread', price=2.0, category=FOOD}]
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-683256079144863695\e.txt
+2026-10-26 13:47:13 [INFO ] ProductFileReader - Created 0 products
+2026-10-26 13:47:13 [INFO ] Main - Total cost: 0.0
+2026-10-26 13:47:13 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:47:13 [INFO ] Main - Average price: 0.0
+2026-10-26 13:47:13 [INFO ] Main - Cheaper than 100.0: []
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Reading 7 lines from C:\Users\nikit\AppData\Local\Temp\junit-4093893047120678597\products.txt
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Created 3 products
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-11523345643117675871\empty.txt
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Created 0 products
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Reading 1 lines from C:\Users\nikit\AppData\Local\Temp\junit-15448935977339612934\p.txt
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Created 1 products
+2026-10-26 13:53:55 [INFO ] Main - Total cost: 2.0
+2026-10-26 13:53:55 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:53:55 [INFO ] Main - Average price: 2.0
+2026-10-26 13:53:55 [INFO ] Main - Most expensive: Product{id=1, name='Bread', price=2.0, category=FOOD}
+2026-10-26 13:53:55 [INFO ] Main - Cheaper than 100.0: [Product{id=1, name='Bread', price=2.0, category=FOOD}]
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Reading 0 lines from C:\Users\nikit\AppData\Local\Temp\junit-14408424931443754100\e.txt
+2026-10-26 13:53:55 [INFO ] ProductFileReader - Created 0 products
+2026-10-26 13:53:55 [INFO ] Main - Total cost: 0.0
+2026-10-26 13:53:55 [INFO ] Main - Total savings: 0.0
+2026-10-26 13:53:55 [INFO ] Main - Average price: 0.0
+2026-10-26 13:53:55 [INFO ] Main - Cheaper than 100.0: []

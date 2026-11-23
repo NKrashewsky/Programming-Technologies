@@ -1,0 +1,18 @@
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 8 ignored: Invalid id: -6 (REGULAR;-6;BadId;10;BOOKS)
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 9 ignored: Invalid price: -50 (REGULAR;7;NegativePrice;-50;FOOD)
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 10 ignored: Name is empty (REGULAR;8;;20;FOOD)
+2026-10-26 13:40:56 [WARN ] ProductCreator - Unknown category 'TOYS', default OTHER is used
+2026-10-26 13:40:56 [WARN ] DiscountedProductCreator - Invalid discount '150', default 0.0 is used
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 13 ignored: Expected 6 parameters but got 4 (DISCOUNTED;11;TooShort;100)
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 14 ignored: Unknown product type: UNKNOWN (UNKNOWN;12;Thing;10;FOOD)
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 15 ignored: Id is not a number: abc (REGULAR;abc;NoId;10;FOOD)
+2026-10-26 13:40:56 [ERROR] ProductFileReader - Line 16 ignored: Price is not a number: xyz (REGULAR;13;BadPrice;xyz;FOOD)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 8 ignored: Invalid id: -6 (REGULAR;-6;BadId;10;BOOKS)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 9 ignored: Invalid price: -50 (REGULAR;7;NegativePrice;-50;FOOD)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 10 ignored: Name is empty (REGULAR;8;;20;FOOD)
+2026-10-26 13:43:16 [WARN ] ProductCreator - Unknown category 'TOYS', default OTHER is used
+2026-10-26 13:43:16 [WARN ] DiscountedProductCreator - Invalid discount '150', default 0.0 is used
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 13 ignored: Expected 6 parameters but got 4 (DISCOUNTED;11;TooShort;100)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 14 ignored: Unknown product type: UNKNOWN (UNKNOWN;12;Thing;10;FOOD)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 15 ignored: Id is not a number: abc (REGULAR;abc;NoId;10;FOOD)
+2026-10-26 13:43:16 [ERROR] ProductFileReader - Line 16 ignored: Price is not a number: xyz (REGULAR;13;BadPrice;xyz;FOOD)

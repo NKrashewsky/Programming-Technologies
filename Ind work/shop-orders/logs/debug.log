@@ -1,0 +1,14 @@
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created Product{id=1, name='Laptop', price=1200.5, category=ELECTRONICS}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created DiscountedProduct{id=2, name='Smartphone', price=800.0, category=ELECTRONICS}{discountPercent=15.0}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created Product{id=3, name='Bread', price=2.5, category=FOOD}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created DiscountedProduct{id=4, name='Jacket', price=150.0, category=CLOTHING}{discountPercent=20.0}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created Product{id=5, name='Novel', price=12.0, category=BOOKS}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created Product{id=9, name='WrongCategory', price=30.0, category=OTHER}
+2026-10-26 13:40:56 [DEBUG] ProductFileReader - Created DiscountedProduct{id=10, name='BadDiscount', price=100.0, category=FOOD}{discountPercent=0.0}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created Product{id=1, name='Laptop', price=1200.5, category=ELECTRONICS}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created DiscountedProduct{id=2, name='Smartphone', price=800.0, category=ELECTRONICS}{discountPercent=15.0}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created Product{id=3, name='Bread', price=2.5, category=FOOD}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created DiscountedProduct{id=4, name='Jacket', price=150.0, category=CLOTHING}{discountPercent=20.0}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created Product{id=5, name='Novel', price=12.0, category=BOOKS}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created Product{id=9, name='WrongCategory', price=30.0, category=OTHER}
+2026-10-26 13:43:16 [DEBUG] ProductFileReader - Created DiscountedProduct{id=10, name='BadDiscount', price=100.0, category=FOOD}{discountPercent=0.0}

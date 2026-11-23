@@ -1,0 +1,14 @@
+2026-10-26 13:40:56 [INFO ] ProductFileReader - Reading 16 lines from data\products.txt
+2026-10-26 13:40:56 [INFO ] ProductFileReader - Created 7 products
+2026-10-26 13:40:56 [INFO ] Main - Total cost: 2145.0
+2026-10-26 13:40:56 [INFO ] Main - Total savings: 150.0
+2026-10-26 13:40:56 [INFO ] Main - Average price: 306.42857142857144
+2026-10-26 13:40:56 [INFO ] Main - Most expensive: Product{id=1, name='Laptop', price=1200.5, category=ELECTRONICS}
+2026-10-26 13:40:56 [INFO ] Main - Cheaper than 100.0: [Product{id=3, name='Bread', price=2.5, category=FOOD}, Product{id=5, name='Novel', price=12.0, category=BOOKS}, Product{id=9, name='WrongCategory', price=30.0, category=OTHER}]
+2026-10-26 13:43:16 [INFO ] ProductFileReader - Reading 16 lines from data\products.txt
+2026-10-26 13:43:16 [INFO ] ProductFileReader - Created 7 products
+2026-10-26 13:43:16 [INFO ] Main - Total cost: 2145.0
+2026-10-26 13:43:16 [INFO ] Main - Total savings: 150.0
+2026-10-26 13:43:16 [INFO ] Main - Average price: 306.42857142857144
+2026-10-26 13:43:16 [INFO ] Main - Most expensive: Product{id=1, name='Laptop', price=1200.5, category=ELECTRONICS}
+2026-10-26 13:43:16 [INFO ] Main - Cheaper than 100.0: [Product{id=3, name='Bread', price=2.5, category=FOOD}, Product{id=5, name='Novel', price=12.0, category=BOOKS}, Product{id=9, name='WrongCategory', price=30.0, category=OTHER}]

@@ -1,0 +1,16 @@
+# type;id;name;price;category;discountPercent
+REGULAR;1;Laptop;1200.50;ELECTRONICS
+DISCOUNTED;2;Smartphone;800;ELECTRONICS;15
+REGULAR;3;Bread;2.5;FOOD
+DISCOUNTED;4;Jacket;150;CLOTHING;20
+REGULAR;5;Novel;12;BOOKS
+# ---- заведомо некорректные данные ----
+REGULAR;-6;BadId;10;BOOKS
+REGULAR;7;NegativePrice;-50;FOOD
+REGULAR;8;;20;FOOD
+REGULAR;9;WrongCategory;30;TOYS
+DISCOUNTED;10;BadDiscount;100;FOOD;150
+DISCOUNTED;11;TooShort;100
+UNKNOWN;12;Thing;10;FOOD
+REGULAR;abc;NoId;10;FOOD
+REGULAR;13;BadPrice;xyz;FOOD
