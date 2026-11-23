@@ -1,0 +1,50 @@
+2026-11-23 13:21:30.533 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'ROOT;Морковь;120;41;true'
+2026-11-23 13:21:30.536 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'LEAFY;Салат;50;15;2'
+2026-11-23 13:21:30.537 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'FRUIT;Помидор;150;18;abc'
+2026-11-23 13:21:30.537 [WARN ] by.bsu.krashevsky.chef.creator.FruitVegetableCreator - Некорректная спелость 'abc' у 'Помидор', взято значение по умолчанию: 5
+2026-11-23 13:21:30.538 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (неизвестный тип): 'BULB;Лук;50;40;1'
+2026-11-23 13:21:30.538 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (мало полей): 'мусор'
+2026-11-23 13:21:30.538 [INFO ] by.bsu.krashevsky.chef.reader.VegetableFileReader - Из файла C:\Users\nikit\AppData\Local\Temp\veg15355428215385745161.txt создано овощей: 3
+2026-11-23 13:21:30.542 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'ROOT;Морковь;120;41;true'
+2026-11-23 13:21:30.542 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'ROOT;Картофель;200;77;true'
+2026-11-23 13:21:30.543 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'LEAFY;Салат;50;15;2'
+2026-11-23 13:21:30.543 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'LEAFY;Шпинат;40;23;1'
+2026-11-23 13:21:30.544 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'FRUIT;Помидор;150;18;7'
+2026-11-23 13:21:30.544 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'FRUIT;Огурец;130;15;6'
+2026-11-23 13:21:30.545 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'LEAFY;Капуста;100;25;3'
+2026-11-23 13:21:30.545 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'FRUIT;Перец;100;27;abc'
+2026-11-23 13:21:30.545 [WARN ] by.bsu.krashevsky.chef.creator.FruitVegetableCreator - Некорректная спелость 'abc' у 'Перец', взято значение по умолчанию: 5
+2026-11-23 13:21:30.545 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Свёкла;-5;43;true'
+2026-11-23 13:21:30.546 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (неизвестный тип): 'BULB;Лук;50;40;1'
+2026-11-23 13:21:30.546 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректное название): 'FRUIT;;100;20;5'
+2026-11-23 13:21:30.546 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'LEAFY;Руккола;abc;25;1'
+2026-11-23 13:21:30.547 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Редис;60;5000;true'
+2026-11-23 13:21:30.547 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (мало полей): 'ROOT;Репа'
+2026-11-23 13:21:30.548 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (мало полей): 'просто мусор'
+2026-11-23 13:21:30.548 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'ROOT;Брюква;80;37;maybe'
+2026-11-23 13:21:30.548 [WARN ] by.bsu.krashevsky.chef.creator.RootVegetableCreator - Некорректный параметр очистки 'maybe' у 'Брюква', взято значение по умолчанию: true
+2026-11-23 13:21:30.548 [INFO ] by.bsu.krashevsky.chef.reader.VegetableFileReader - Из файла data\vegetables.txt создано овощей: 9
+2026-11-23 13:21:30.560 [DEBUG] by.bsu.krashevsky.chef.service.SaladService - Калорийность салата 'Тест': 116.5
+2026-11-23 13:21:30.564 [DEBUG] by.bsu.krashevsky.chef.service.SaladService - Калорийность салата 'Пустой': 0.0
+2026-11-23 13:21:30.568 [DEBUG] by.bsu.krashevsky.chef.service.SaladService - Найдено овощей в диапазоне [15.0; 20.0]: 2
+2026-11-23 13:21:30.571 [DEBUG] by.bsu.krashevsky.chef.service.SaladService - Найдено овощей в диапазоне [41.0; 41.0]: 1
+2026-11-23 13:21:30.574 [DEBUG] by.bsu.krashevsky.chef.service.SaladService - Найдено овощей в диапазоне [100.0; 200.0]: 0
+2026-11-23 13:21:30.603 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (мало полей): 'ROOT;Репа'
+2026-11-23 13:21:30.605 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (неизвестный тип): 'BULB;Лук;50;40;1'
+2026-11-23 13:21:30.606 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректное название): 'FRUIT;;100;20;5'
+2026-11-23 13:21:30.608 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректное название): 'FRUIT;Помидор123;100;20;5'
+2026-11-23 13:21:30.609 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'LEAFY;Руккола;abc;25;1'
+2026-11-23 13:21:30.611 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'LEAFY;Руккола;50;abc;1'
+2026-11-23 13:21:30.612 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Свёкла;-5;43;true'
+2026-11-23 13:21:30.614 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Свёкла;0;43;true'
+2026-11-23 13:21:30.616 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Свёкла;6000;43;true'
+2026-11-23 13:21:30.618 [WARN ] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка проигнорирована (некорректный вес или калорийность): 'ROOT;Редис;60;5000;true'
+2026-11-23 13:21:30.620 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'FRUIT;Огурец;130;15'
+2026-11-23 13:21:30.622 [DEBUG] by.bsu.krashevsky.chef.parser.VegetableLineParser - Строка успешно разобрана: 'ROOT;Морковь;120;41;true'
+2026-11-23 13:21:30.636 [WARN ] by.bsu.krashevsky.chef.creator.FruitVegetableCreator - Некорректная спелость '0' у 'Тест', взято значение по умолчанию: 5
+2026-11-23 13:21:30.637 [WARN ] by.bsu.krashevsky.chef.creator.FruitVegetableCreator - Некорректная спелость '11' у 'Тест', взято значение по умолчанию: 5
+2026-11-23 13:21:30.640 [WARN ] by.bsu.krashevsky.chef.creator.FruitVegetableCreator - Некорректная спелость 'abc' у 'Тест', взято значение по умолчанию: 5
+2026-11-23 13:21:30.644 [WARN ] by.bsu.krashevsky.chef.creator.LeafyVegetableCreator - Некорректная свежесть '-1' у 'Тест', взято значение по умолчанию: 1
+2026-11-23 13:21:30.645 [WARN ] by.bsu.krashevsky.chef.creator.LeafyVegetableCreator - Некорректная свежесть 'abc' у 'Тест', взято значение по умолчанию: 1
+2026-11-23 13:21:30.649 [WARN ] by.bsu.krashevsky.chef.creator.RootVegetableCreator - Некорректный параметр очистки 'maybe' у 'Тест', взято значение по умолчанию: true
+2026-11-23 13:21:30.650 [WARN ] by.bsu.krashevsky.chef.creator.RootVegetableCreator - Некорректный параметр очистки '' у 'Тест', взято значение по умолчанию: true

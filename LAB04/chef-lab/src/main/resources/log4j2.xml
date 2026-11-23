@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Консоль: каждый уровень своим цветом -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout charset="UTF-8" disableAnsi="false"
+                           pattern="%highlight{%d{HH:mm:ss.SSS} [%-5level] %c{1} - %msg%n}{FATAL=bright red, ERROR=red, WARN=yellow, INFO=green, DEBUG=cyan, TRACE=blue}"/>
+        </Console>
+
+        <!-- Файл: текущий лог logs/chef.log, при превышении размера
+             старые файлы архивируются (gz) в logs/archive, хранится 3 последних -->
+        <RollingFile name="File" fileName="logs/chef.log"
+                     filePattern="logs/archive/chef-%d{yyyy-MM-dd}-%i.log.gz">
+            <PatternLayout charset="UTF-8"
+                           pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5level] %c - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10 KB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="3"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>
